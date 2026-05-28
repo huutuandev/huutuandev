@@ -61,7 +61,7 @@
 
 ## 🎯 Goals (2026)
 
-* 🚀 Become a **Backend Intern / Fresher Developer**
+* 🚀 Become a **Backend Fresher Developer**
 * 🧠 Learn **System Design fundamentals**
 * 🤖 Build real AI-integrated applications
 * 💼 Earn from coding
