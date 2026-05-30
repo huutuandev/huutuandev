@@ -33,7 +33,7 @@
 
 ### 🐳 DevOps & Tools
 
-* Docker (basic)
+* Docker 
 * Git, GitHub
 * Postman, Swagger
 * Linux / Shell
