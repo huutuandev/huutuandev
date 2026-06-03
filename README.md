@@ -10,6 +10,7 @@
 * ⚡ Strong in **REST APIs, JWT Authentication, Database Design**
 * 🤖 Experience with **OpenAI API, Payment Integration (VNPay, MoMo)**
 * 🚀 Built & deployed real-world systems using **Docker & VPS**
+* 🧠 Familiar with **Java, C, C#, JavaScript**
 
 ---
 
@@ -18,6 +19,8 @@
 ### 🚀 Backend
 
 ![Java](https://img.shields.io/badge/Java-90%25-red?style=for-the-badge\&logo=java)
+![C](https://img.shields.io/badge/C-80%25-blue?style=for-the-badge\&logo=c)
+![C#](https://img.shields.io/badge/CSharp-80%25-purple?style=for-the-badge\&logo=csharp)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-85%25-brightgreen?style=for-the-badge\&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST_API-88%25-blue?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-78%25-green?style=for-the-badge)
@@ -64,17 +67,12 @@
 
 ## 🚧 Featured Projects
 
-### 🎯 Tet App Backend
+### 🎓 Academy Management System (Current)
 
-👉 https://github.com/huutuandev/BE_WEB-TET-VUI
-
-### 🍽 Restaurant Management System
-
-👉 https://github.com/huutuandev/QuanLyNhaHang
-
-### 💬 Realtime Chat App
-
-👉 https://github.com/huutuandev/Chat_App
+* Full-stack system using **Spring Boot + React**
+* Manage students, courses, tuition, notifications
+* Integrating **AI for generating exams/questions**
+  👉 https://github.com/huutuandev/academy-management
 
 ---
 
