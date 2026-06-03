@@ -19,7 +19,6 @@
 ### 🚀 Backend
 
 ![Java](https://img.shields.io/badge/Java-90%25-red?style=for-the-badge\&logo=java)
-![C](https://img.shields.io/badge/C-80%25-blue?style=for-the-badge\&logo=c)
 ![C#](https://img.shields.io/badge/CSharp-80%25-purple?style=for-the-badge\&logo=csharp)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-85%25-brightgreen?style=for-the-badge\&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST_API-88%25-blue?style=for-the-badge)
