@@ -1,50 +1,83 @@
 # 👋 Hi, I'm Tuan Nguyen
 
-🚀 Backend Developer (Java Spring Boot) – Focused on building production-ready systems
+Backend Developer specialized in Java Spring Boot, building scalable backend systems and modern web applications.
+
+## 🚀 About Me
+
+* Backend developer focused on Java Spring Boot ecosystem
+* Experience building RESTful APIs, authentication, authorization, and database-driven applications
+* Strong understanding of software architecture, clean code, and system design principles
+* Hands-on experience with Redis, Docker, VPS deployment, CI/CD pipelines
+* Experience integrating AI services (OpenAI API) and online payment gateways (VNPay, MoMo)
+* Available for freelance and collaborative projects involving Backend, Full-stack, and AI-powered applications
 
 ---
 
-## 🔥 About Me
+## 🏆 Featured Project
 
-* Backend developer with hands-on experience in **Spring Boot, Redis, Docker**
-* Strong in designing **RESTful APIs, authentication (JWT, OAuth2), database systems**
-* Experience integrating **AI APIs (OpenAI)** and **payment systems (VNPay, MoMo)**
-* Built and deployed real-world projects using **Docker & VPS**
-* Passionate about writing clean, maintainable, and scalable backend systems
+### Academy Management System
 
----
+A production-style education management platform designed with real-world business requirements.
 
-## 🚧 Featured Project
+#### Core Features
 
-### 🎓 Academy Management System
+* JWT Authentication & Authorization
+* Role-Based Access Control (Admin / Teacher / Student)
+* AI-powered Exam & Question Generation
+* Payment Integration (VNPay, MoMo)
+* Real-time Notification System (WebSocket)
+* Course & Student Management
 
-A full-stack system designed to simulate a real-world education platform.
+#### Technical Highlights
 
-**Key Features:**
+* Redis Caching for performance optimization
+* Clean Architecture (Controller - Service - Repository)
+* Global Exception Handling & Logging
+* Dockerized deployment environment
+* VPS Production Deployment
+* RESTful API Design following best practices
 
-* Authentication & authorization using **JWT**
-* Role-based access control (Admin / Teacher / Student)
-* AI-powered exam & question generation (OpenAI API)
-* Payment integration with **VNPay / MoMo**
-* Real-time notifications (WebSocket)
-
-**Technical Highlights:**
-
-* Optimized API performance using **Redis caching**
-* Structured backend with **clean architecture (Controller – Service – Repository)**
-* Implemented global exception handling & logging
-* Containerized using **Docker** and deployed on VPS
-
-👉 Project: https://github.com/huutuandev/academy-management
+🔗 GitHub Repository:
+https://github.com/huutuandev/academy-management
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend:** Java, Spring Boot, Spring Security, REST API, JWT
-**Database:** MySQL, PostgreSQL
-**DevOps:** Docker, GitHub Actions, VPS
-**Other:** Redis, WebSocket, OpenAI API
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* REST API
+* JWT Authentication
+
+### Database
+
+* MySQL
+* PostgreSQL
+* Redis
+
+### DevOps & Deployment
+
+* Docker
+* GitHub Actions
+* Linux VPS
+* Nginx
+
+### AI & Integrations
+
+* OpenAI API
+* VNPay
+* MoMo
+* WebSocket
+
+---
+
+## 🌐 Portfolio
+
+https://nguyenhuutuan.vercel.app/
 
 ---
 
@@ -55,6 +88,21 @@ A full-stack system designed to simulate a real-world education platform.
 
 ---
 
-## ⚡ Mindset
+## 💼 Services
 
-> Consistency beats motivation 🚀
+I am open to:
+
+* Backend Development (Java Spring Boot)
+* REST API Development
+* Authentication & Authorization Systems
+* Full-stack Web Applications
+* AI Integration (OpenAI API)
+* System Deployment & Dockerization
+
+---
+
+## ⚡ Philosophy
+
+> Build things that solve real problems.
+>
+> Consistency beats motivation.
